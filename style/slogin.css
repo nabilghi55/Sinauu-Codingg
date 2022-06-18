@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200&display=swap');
+
+
+.container{
+    display: flex;
+    height: 100%;
+    align-items: center;
+    justify-content: center;
+}
+.login-form{
+    height: 500px;
+    width: 430px;
+    padding: 0 35px;
+    background-color: white;
+    border: none;
+}
+
+input [type="email"],
+input [type = "password"]{
+    border-radius: 20px;
+}
+.navbar-brand img{
+    width: 200px;
+}
+.awal {
+    background: linear-gradient(180deg, #A0DFC0 0%, #FFFFFF 44.78%);
+    
+}
+.halaman2 img{
+    width: 100%;
+}
